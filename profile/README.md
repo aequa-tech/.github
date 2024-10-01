@@ -1,5 +1,5 @@
 ## Debunker-Assistant
-![debunker-assistant sticker](https://github.com/aequa-tech/.github/blob/main/profile/debunker-sticker.png =250x250)
+<img src="https://github.com/aequa-tech/.github/blob/main/profile/debunker-sticker.png" width="250" >
 
 Howdy, this is the organization page of Debunker-Assistant: our AI-enhanced tool for fake news detection
 
