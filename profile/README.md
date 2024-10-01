@@ -5,7 +5,7 @@ Howdy, this is the organization page of Debunker-Assistant: our AI-enhanced tool
 1. [Our Mission](#mission)
 2. [Debunker-Assistant: Community Edition](#community)
 3. [De-Escalate](#descalate)
-4. [Network and Fundings]
+4. [Debunker Ecosystem](#network)
 
 <a name="mission" />
 
@@ -28,6 +28,9 @@ Debunker-Assistant is now in beta but our journey is just begun. Our next object
 
 <a name="network" />
 
-### Our Network
-Debunker-Assistant is part of a network of partners and stakeholders that are essential to fulfill our mission. We take care of the AI stuff, **weLaika takes** care of the rest of the service. [Futura](https://www.futura.legal/) is our legal partner: they are not only the ones that wrote our terms and conditions but also a crucial support to design a product that embraces the principles of the EU market. Our product would not exist without a community of activists and NGOs. During our journey we met activists from [Amnesty International](https://www.amnesty.it/entra-in-azione/task-force-attivismo/) and [Hate Trackers](https://www.hate-trackers.com/beyondborders/) who help us trace the path of our techology.
+### Debunker Ecosystem
+Debunker-Assistant is part of a network of partners and stakeholders that are essential to fulfill our mission. We would never been able to develop the first version of our technology without the NGI-Search Initiative who funded our project with 150,000 euros and supported our work with its group of experts in Open Source, Business Modelling, Open Data, etc. We take care of the AI stuff, **weLaika takes** care of the rest of the service. [Futura](https://www.futura.legal/) is our legal partner: they are not only the ones that wrote our terms and conditions but also a crucial support to design a product that embraces the principles of the EU market. Our product would not exist without a community of activists and NGOs. During our journey we met activists from [Amnesty International](https://www.amnesty.it/entra-in-azione/task-force-attivismo/) and [Hate Trackers](https://www.hate-trackers.com/beyondborders/) who help us trace the path of our techology.
+
+### Follow us
+From December you can follow Debunker-Assistant's adventures by subscribing to aequa-tech's [Substack](https://aequatech.substack.com/) 
 
