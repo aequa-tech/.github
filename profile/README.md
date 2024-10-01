@@ -1,16 +1,17 @@
 ## Debunker-Assistant
 
-1. [Paragraph](#mission)
-2. [Headings](#community)
-3. [Emphasis](#descalate)
+Howdy, this is the organization page of Debunker-Assistant: our AI-enhanced tool for fake news detection
+
+1. [Our Mission](#mission)
+2. [Debunker-Assistant: Community Edition](#community)
+3. [De-Escalate](#descalate)
 
 
 <a name="mission" />
 
 ### Our Mission: Fighting Misinformation
 
-Howdy, this is the organization page of Debunker-Assistant: our AI-enhanced tool for fake news detection. In [aequa-tech](https://aequa-tech.com/) we believe that fighting misinformation is a crucial step to build better societies. Therefore we developed a tool that supports citizens in the identification and understanding of news that conveys false or otherwise problematic contents. Debunker-Assistant is developed for and with the communities of professionals and organizations who fight misinformation, its community version is Open Source and it always will be.
-
+In [aequa-tech](https://aequa-tech.com/) we believe that fighting misinformation is a crucial step to build better societies. Therefore we developed a tool that supports citizens in the identification and understanding of news that conveys false or otherwise problematic contents. Debunker-Assistant is developed for and with the communities of professionals and organizations who fight misinformation, 
 <a name="community" />
 
 ### The Community Edition of Debunker-Assistant
