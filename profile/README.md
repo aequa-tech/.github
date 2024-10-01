@@ -5,7 +5,7 @@ Howdy, this is the organization page of Debunker-Assistant: our AI-enhanced tool
 1. [Our Mission](#mission)
 2. [Debunker-Assistant: Community Edition](#community)
 3. [De-Escalate](#descalate)
-
+4. [Network and Fundings]
 
 <a name="mission" />
 
@@ -25,4 +25,9 @@ Debunker-Assistant is an Open Source and it always will be. We and [weLaika](htt
 
 ### From *Future* Import De-Escalate
 Debunker-Assistant is now in beta but our journey is just begun. Our next objective is to develop **De-Escalate** a technology that is able to (i) identify news that provokes polarization among citizens and (ii) help them understand opposite perspectives in order to foster mutual dialogue between polarized communities.
+
+<a name="network" />
+
+### Our Network
+Debunker-Assistant is part of a network of partners and stakeholders that are essential to fulfill our mission. We take care of the AI stuff, **weLaika takes** care of the rest of the service. [Futura](https://www.futura.legal/) is our legal partner: they are not only the ones that wrote our terms and conditions but also a crucial support to design a product that embraces the principles of the EU market. Our product would not exist without a community of activists and NGOs. During our journey we met activists from [Amnesty International](https://www.amnesty.it/entra-in-azione/task-force-attivismo/) and [Hate Trackers](https://www.hate-trackers.com/beyondborders/) who help us trace the path of our techology.
 
