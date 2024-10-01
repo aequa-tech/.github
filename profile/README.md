@@ -6,6 +6,8 @@ Howdy, this is the organization page of Debunker-Assistant: our AI-enhanced tool
 2. [Debunker-Assistant: Community Edition](#community)
 3. [De-Escalate](#descalate)
 4. [Debunker Ecosystem](#network)
+5. [Contribute](#contribute)
+6. [Follow us](#followus)
 
 <a name="mission" />
 
@@ -30,6 +32,25 @@ Debunker-Assistant is now in beta but our journey is just begun. Our next object
 
 ### Debunker Ecosystem
 Debunker-Assistant is part of a network of partners and stakeholders that are essential to fulfill our mission. We would never been able to develop the first version of our technology without the NGI-Search Initiative who funded our project with 150,000 euros and supported our work with its group of experts in Open Source, Business Modelling, Open Data, etc. We take care of the AI stuff, **weLaika takes** care of the rest of the service. [Futura](https://www.futura.legal/) is our legal partner: they are not only the ones that wrote our terms and conditions but also a crucial support to design a product that embraces the principles of the EU market. Our product would not exist without a community of activists and NGOs. During our journey we met activists from [Amnesty International](https://www.amnesty.it/entra-in-azione/task-force-attivismo/) and [Hate Trackers](https://www.hate-trackers.com/beyondborders/) who help us trace the path of our techology.
+
+<a name="contribute" />
+
+### Contribute
+Defining the contribution rules for Debunker-Assistant is something that we are taking seriously. That's why they are not ready, yet. In the meantime please meet the people who collaborate and collaborated with us in these months:
+
+#### Interns
+The following master students had an internship in our company and contributed to the development of Debunker-Assistant
+* **Arianna Longo** collaborated to the creation of a corpus annotated for the detection of vulnerable identities in news headlines;
+* **Vittoria Tonini** worked on a corpus of counternarratives against hate speech in viral news shared on social media.
+
+#### Friends of aequa-tech
+Friends of aequa-tech is a program aimed at PhD students and post-docs that grants a scholarships to carry on Research & Development activities related to Debunker-Assistant
+* **Silvia Casola** implemented a module for the summarization of news contents.
+* **Marta Marchiori Manerba** developed an explanation module of our prediction.
+* **Soda Marem Lo** is developing a computational resource to detect different moral stances about the same news.
+
+
+<a name="followus" />
 
 ### Follow us
 From December you can follow Debunker-Assistant's adventures by subscribing to aequa-tech's [Substack](https://aequatech.substack.com/) 
