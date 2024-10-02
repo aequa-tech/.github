@@ -18,7 +18,7 @@ In [aequa-tech](https://aequa-tech.com/) we believe that fighting misinformation
 <a name="community" />
 
 ### The Community Edition of Debunker-Assistant
-Debunker-Assistant is an Open Source and it always will be. We and [weLaika](https://dev.welaika.com/) maintain 5 repositories that represents the building blocks of our system
+Debunker-Assistant is an Open Source and it always will be. We and [weLaika](https://dev.welaika.com/) maintain 3 repositories that represents the building blocks of our system
 
 * [**Debunker-Assistant APIs:**](https://github.com/aequa-tech/debunker-assistant) a set of Natural Language Processing and Network Analysis methods for the multidimensional analysis of the quality of news (that will soon become a library) 
 * [**The Web Application:**](https://github.com/aequa-tech/debunker-assistant) an application that allows users to create an account and have access to our system through a graphical interface
