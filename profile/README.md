@@ -24,6 +24,9 @@ Debunker-Assistant is an Open Source and it always will be. We and [weLaika](htt
 * [**The Web Application:**](https://github.com/aequa-tech/debunker-assistant) an application that allows users to create an account and have access to our system through a graphical interface
 * [**The Annotation Platform:**](https://github.com/aequa-tech/debunker-assistant) a module that allows users to provide feedback and annotations about misinformative contents.
 
+Non-experts can also access to our technology through our graphical interface
+
+[<img src="https://github.com/aequa-tech/.github/blob/main/profile/debunker-ce.png" width="250" >](https://debunker-assistant.com)
 <a name="descalate" />
 
 ### From *Future* Import De-Escalate
